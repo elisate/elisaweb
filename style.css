@@ -473,7 +473,7 @@ footer span a:hover{
     text-decoration: underline;
 }
 
-@media (max-width: 1104px) {
+@media (max-width:c) {
     .about .about-content .left img{
         height: 350px;
         width: 350px;

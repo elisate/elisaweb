@@ -33,17 +33,22 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".elisatype", {
-        strings: ["Developer", "Designer", "Advertiser", "App Maker", "UI/UX Designer"],
+        strings: ["Web Developer", " App Developer", "Advertiser",  "UI/UX Designer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".elisa-2", {
-        strings: ["Developer", "Designer", "Advertiser", "App Maker", "UI/UX Designer"],
-        typeSpeed: 100,
-        backSpeed: 60,
-        loop: true
+      strings: [
+        "Web Developer",
+        " App Developer",
+        "Advertiser",
+        "UI/UX Designer",
+      ],
+      typeSpeed: 100,
+      backSpeed: 60,
+      loop: true,
     });
 
     
